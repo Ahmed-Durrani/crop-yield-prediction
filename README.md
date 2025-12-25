@@ -35,6 +35,7 @@ future_dashboard.py: Visualizes predictions for 2017-2025.
 Clone the repository:
 
 git clone [https://github.com/your-username/crop-yield-prediction.git](https://github.com/your-username/crop-yield-prediction.git)
+
 cd crop-yield-prediction
 
 
