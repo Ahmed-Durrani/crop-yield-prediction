@@ -1,0 +1,6 @@
+sample_id,year,region,yield_label,weather_path,image_path
+FUTURE_2021,2021,Multan,0.0,data/processed_real_data\weather_sequences\FUTURE_Multan_2021.csv,data/satellite_images\T42RYU_20210311T054639_AOT_10m.jp2.tif
+FUTURE_2022,2022,Multan,0.0,data/processed_real_data\weather_sequences\FUTURE_Multan_2022.csv,data/satellite_images\T42RYU_20220425T054629_AOT_10m.jp2.tif
+FUTURE_2023,2023,Multan,0.0,data/processed_real_data\weather_sequences\FUTURE_Multan_2023.csv,data/satellite_images\T42RYU_20230415T054641_AOT_10m.jp2.tif
+FUTURE_2024,2024,Multan,0.0,data/processed_real_data\weather_sequences\FUTURE_Multan_2024.csv,data/satellite_images\T42RYU_20240409T054641_AOT_10m.jp2.tif
+FUTURE_2025,2025,Multan,0.0,data/processed_real_data\weather_sequences\FUTURE_Multan_2025.csv,data/satellite_images\T42RYU_20250419T054639_AOT_10m.jp2.tif

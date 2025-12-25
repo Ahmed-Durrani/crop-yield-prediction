@@ -1,0 +1,4 @@
+sample_id,year,region,yield_label,weather_path,image_path,meta_weather_src,meta_image_src
+Sim_1,2026,Multan,0.0,data/processed_real_data\weather_sequences\SCENARIO_0_2026.csv,data/satellite_images\T42RYU_20170416T054641_AOT_10m.jp2.tif,2019,2017
+Sim_2,2026,Multan,0.0,data/processed_real_data\weather_sequences\SCENARIO_1_2026.csv,data/satellite_images\T42RYU_20250419T054639_AOT_10m.jp2.tif,2021,2025
+Sim_3,2026,Multan,0.0,data/processed_real_data\weather_sequences\SCENARIO_2_2026.csv,data/satellite_images\T42RYU_20220425T054629_AOT_10m.jp2.tif,2025,2022

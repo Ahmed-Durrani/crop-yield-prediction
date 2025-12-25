@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Data (Optional: if your satellite images are too big for GitHub, ignore them)
+data/satellite_images/*.tif
+data/satellite_images/*.jp2
+
+# VS Code settings
+.vscode/
